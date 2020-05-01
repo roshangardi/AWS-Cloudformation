@@ -1,4 +1,4 @@
-Description: 'Hello All, I have created an AWS CloudFormation Sample Template which:
+Description: 'AWS CloudFormation Sample Template which:
   Creates an Amazon EC2 instance running the Amazon Linux AMI.This example creates an
   EC2 security group  for the instance to give you SSH access.'
 Parameters:
