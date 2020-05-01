@@ -1,5 +1,7 @@
-# AWS-Cloudformation
+# AWS-Cloudformation:cloud:
 Cloud formation Infrastructure as code templates used to create infrastructure on AWS platform.
+
+![VsCodeImage](https://github.com/roshangardi/AWS-Cloudformation/blob/master/Images/AWSEC2template.PNG)
 
 ## **What is AWS CloudFormation?**
 AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources so that you can spend less time managing those resources and more time focusing on your applications that run in AWS.
@@ -13,3 +15,16 @@ An AWS CloudFormation template is a JSON or YAML formatted text file. You can sa
 
 ## **What is a STACK?**
 When you use AWS CloudFormation, you manage related resources as a single unit called a stack. You create, update, and delete a collection of resources by creating, updating, and deleting stacks. All the resources in a stack are defined by the stack's AWS CloudFormation template. Suppose you created a template that includes an Auto Scaling group, Elastic Load Balancing load balancer, and an Amazon Relational Database Service (Amazon RDS) database instance. To create those resources, you create a stack by submitting the template that you created, and AWS CloudFormation provisions all those resources for you.
+
+---
+> Tips
+
+- Please find a basic template in Templates folder to get started with Cloudformation
+- **This repository will constantly be updated with new templates and Readme section will cover the explanation of new topics**
+
+---
+## Support
+
+Reach out to me on:
+
+- LinkedIn at <a href="www.linkedin.com/in/roshan-gardi-23090b129" target="_blank">`Roshan_Gardi`</a>
