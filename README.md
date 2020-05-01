@@ -1,4 +1,4 @@
-# AWS-Cloudformation:cloud:
+# AWS-Cloudformation :cloud:
 Cloud formation Infrastructure as code templates used to create infrastructure on AWS platform.
 
 ![VsCodeImage](https://github.com/roshangardi/AWS-Cloudformation/blob/master/Images/AWSEC2template.PNG)
@@ -27,4 +27,4 @@ When you use AWS CloudFormation, you manage related resources as a single unit c
 
 Reach out to me on:
 
-- LinkedIn at <a href="www.linkedin.com/in/roshan-gardi-23090b129" target="_blank">`Roshan_Gardi`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/roshan-gardi-23090b129/" target="_blank">`Roshan_Gardi`</a>
