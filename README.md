@@ -16,12 +16,14 @@ An AWS CloudFormation template is a JSON or YAML formatted text file. You can sa
 ## **What is a STACK?**
 When you use AWS CloudFormation, you manage related resources as a single unit called a stack. You create, update, and delete a collection of resources by creating, updating, and deleting stacks. All the resources in a stack are defined by the stack's AWS CloudFormation template. Suppose you created a template that includes an Auto Scaling group, Elastic Load Balancing load balancer, and an Amazon Relational Database Service (Amazon RDS) database instance. To create those resources, you create a stack by submitting the template that you created, and AWS CloudFormation provisions all those resources for you.
 
+## **How to get started?**
+Please find a basic template in Templates folder to get started with Cloudformation.  
+Advanced templates to provision multiple resources will be added in upcoming days
+
 ---
 > Tips
 
-- Please find a basic template in Templates folder to get started with Cloudformation
 - **This repository will constantly be updated with new templates and Readme section will cover the explanation of new topics**
-
 ---
 ## Support
 
